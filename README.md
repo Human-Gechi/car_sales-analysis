@@ -71,7 +71,7 @@ Use your preferred SQL client (e.g., PostgreSQL, MySQL, SQLite)  i used PostgreS
 
 ### 3. **Export Data for Further Analysis (Optional)**
 
-Some queries (e.g., mileage vs. price) can be exported to a CSV for regression or visualization in Python, Excel, or Power BI.
+Export queries to CSV for regression or visualization in Python, Excel, or Power BI.
 
 ---
 
