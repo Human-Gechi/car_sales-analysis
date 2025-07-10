@@ -16,7 +16,7 @@ The analysis assumes the presence of the following fields in a SQL-accessible ta
 - `color`: Exterior color
 - `condition`: Condition of the vehicle (new, used, like new, etc.)
 - `accident`: Whether the car has been in an accident (Yes/No)
-- `options_features`: Optional features (e.g., sunroof, GPS), stored as text or JSON
+- `options_features`: Optional features (e.g., sunroof, GPS)
 
 
 ---
